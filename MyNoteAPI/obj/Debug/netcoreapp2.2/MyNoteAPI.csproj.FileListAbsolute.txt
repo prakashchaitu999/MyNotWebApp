@@ -1,0 +1,14 @@
+C:\Users\chaitanya\source\repos\UsersAPI\MyNoteAPI\bin\Debug\netcoreapp2.2\MyNoteAPI.deps.json
+C:\Users\chaitanya\source\repos\UsersAPI\MyNoteAPI\bin\Debug\netcoreapp2.2\MyNoteAPI.runtimeconfig.json
+C:\Users\chaitanya\source\repos\UsersAPI\MyNoteAPI\bin\Debug\netcoreapp2.2\MyNoteAPI.runtimeconfig.dev.json
+C:\Users\chaitanya\source\repos\UsersAPI\MyNoteAPI\bin\Debug\netcoreapp2.2\MyNoteAPI.dll
+C:\Users\chaitanya\source\repos\UsersAPI\MyNoteAPI\obj\Debug\netcoreapp2.2\MyNoteAPI.csprojAssemblyReference.cache
+C:\Users\chaitanya\source\repos\UsersAPI\MyNoteAPI\obj\Debug\netcoreapp2.2\MyNoteAPI.csproj.CoreCompileInputs.cache
+C:\Users\chaitanya\source\repos\UsersAPI\MyNoteAPI\obj\Debug\netcoreapp2.2\MyNoteAPI.RazorAssemblyInfo.cache
+C:\Users\chaitanya\source\repos\UsersAPI\MyNoteAPI\obj\Debug\netcoreapp2.2\MyNoteAPI.RazorAssemblyInfo.cs
+C:\Users\chaitanya\source\repos\UsersAPI\MyNoteAPI\obj\Debug\netcoreapp2.2\MyNoteAPI.AssemblyInfoInputs.cache
+C:\Users\chaitanya\source\repos\UsersAPI\MyNoteAPI\obj\Debug\netcoreapp2.2\MyNoteAPI.AssemblyInfo.cs
+C:\Users\chaitanya\source\repos\UsersAPI\MyNoteAPI\obj\Debug\netcoreapp2.2\MyNoteAPI.RazorTargetAssemblyInfo.cache
+C:\Users\chaitanya\source\repos\UsersAPI\MyNoteAPI\bin\Debug\netcoreapp2.2\MyNoteAPI.pdb
+C:\Users\chaitanya\source\repos\UsersAPI\MyNoteAPI\obj\Debug\netcoreapp2.2\MyNoteAPI.dll
+C:\Users\chaitanya\source\repos\UsersAPI\MyNoteAPI\obj\Debug\netcoreapp2.2\MyNoteAPI.pdb

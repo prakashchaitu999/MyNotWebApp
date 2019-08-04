@@ -1,0 +1,14 @@
+C:\Users\chaitanya\source\repos\UsersAPI\NoteBusinessLibrary\bin\Debug\netcoreapp2.2\NoteBusinessLibrary.deps.json
+C:\Users\chaitanya\source\repos\UsersAPI\NoteBusinessLibrary\bin\Debug\netcoreapp2.2\NoteBusinessLibrary.dll
+C:\Users\chaitanya\source\repos\UsersAPI\NoteBusinessLibrary\bin\Debug\netcoreapp2.2\NoteBusinessLibrary.pdb
+C:\Users\chaitanya\source\repos\UsersAPI\NoteBusinessLibrary\bin\Debug\netcoreapp2.2\Entity.dll
+C:\Users\chaitanya\source\repos\UsersAPI\NoteBusinessLibrary\bin\Debug\netcoreapp2.2\Entity.pdb
+C:\Users\chaitanya\source\repos\UsersAPI\NoteBusinessLibrary\obj\Debug\netcoreapp2.2\NoteBusinessLibrary.csprojAssemblyReference.cache
+C:\Users\chaitanya\source\repos\UsersAPI\NoteBusinessLibrary\obj\Debug\netcoreapp2.2\NoteBusinessLibrary.csproj.CoreCompileInputs.cache
+C:\Users\chaitanya\source\repos\UsersAPI\NoteBusinessLibrary\obj\Debug\netcoreapp2.2\NoteBusinessLibrary.AssemblyInfoInputs.cache
+C:\Users\chaitanya\source\repos\UsersAPI\NoteBusinessLibrary\obj\Debug\netcoreapp2.2\NoteBusinessLibrary.AssemblyInfo.cs
+C:\Users\chaitanya\source\repos\UsersAPI\NoteBusinessLibrary\obj\Debug\netcoreapp2.2\NoteBusinessLibrary.csproj.CopyComplete
+C:\Users\chaitanya\source\repos\UsersAPI\NoteBusinessLibrary\obj\Debug\netcoreapp2.2\NoteBusinessLibrary.dll
+C:\Users\chaitanya\source\repos\UsersAPI\NoteBusinessLibrary\obj\Debug\netcoreapp2.2\NoteBusinessLibrary.pdb
+C:\Users\chaitanya\source\repos\UsersAPI\NoteBusinessLibrary\bin\Debug\netcoreapp2.2\DataAccess.dll
+C:\Users\chaitanya\source\repos\UsersAPI\NoteBusinessLibrary\bin\Debug\netcoreapp2.2\DataAccess.pdb

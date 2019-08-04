@@ -1,0 +1,14 @@
+C:\Users\chaitanya\source\repos\UsersAPI\UsersAPI\bin\Debug\netcoreapp2.2\UsersAPI.deps.json
+C:\Users\chaitanya\source\repos\UsersAPI\UsersAPI\bin\Debug\netcoreapp2.2\UsersAPI.runtimeconfig.json
+C:\Users\chaitanya\source\repos\UsersAPI\UsersAPI\bin\Debug\netcoreapp2.2\UsersAPI.runtimeconfig.dev.json
+C:\Users\chaitanya\source\repos\UsersAPI\UsersAPI\bin\Debug\netcoreapp2.2\UsersAPI.dll
+C:\Users\chaitanya\source\repos\UsersAPI\UsersAPI\bin\Debug\netcoreapp2.2\UsersAPI.pdb
+C:\Users\chaitanya\source\repos\UsersAPI\UsersAPI\obj\Debug\netcoreapp2.2\UsersAPI.csprojAssemblyReference.cache
+C:\Users\chaitanya\source\repos\UsersAPI\UsersAPI\obj\Debug\netcoreapp2.2\UsersAPI.csproj.CoreCompileInputs.cache
+C:\Users\chaitanya\source\repos\UsersAPI\UsersAPI\obj\Debug\netcoreapp2.2\UsersAPI.RazorAssemblyInfo.cache
+C:\Users\chaitanya\source\repos\UsersAPI\UsersAPI\obj\Debug\netcoreapp2.2\UsersAPI.RazorAssemblyInfo.cs
+C:\Users\chaitanya\source\repos\UsersAPI\UsersAPI\obj\Debug\netcoreapp2.2\UsersAPI.AssemblyInfoInputs.cache
+C:\Users\chaitanya\source\repos\UsersAPI\UsersAPI\obj\Debug\netcoreapp2.2\UsersAPI.AssemblyInfo.cs
+C:\Users\chaitanya\source\repos\UsersAPI\UsersAPI\obj\Debug\netcoreapp2.2\UsersAPI.RazorTargetAssemblyInfo.cache
+C:\Users\chaitanya\source\repos\UsersAPI\UsersAPI\obj\Debug\netcoreapp2.2\UsersAPI.dll
+C:\Users\chaitanya\source\repos\UsersAPI\UsersAPI\obj\Debug\netcoreapp2.2\UsersAPI.pdb

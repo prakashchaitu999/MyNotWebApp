@@ -1,0 +1,9 @@
+C:\Users\chaitanya\source\repos\UsersAPI\Entity\bin\Debug\netcoreapp2.2\Entity.deps.json
+C:\Users\chaitanya\source\repos\UsersAPI\Entity\bin\Debug\netcoreapp2.2\Entity.dll
+C:\Users\chaitanya\source\repos\UsersAPI\Entity\bin\Debug\netcoreapp2.2\Entity.pdb
+C:\Users\chaitanya\source\repos\UsersAPI\Entity\obj\Debug\netcoreapp2.2\Entity.csprojAssemblyReference.cache
+C:\Users\chaitanya\source\repos\UsersAPI\Entity\obj\Debug\netcoreapp2.2\Entity.csproj.CoreCompileInputs.cache
+C:\Users\chaitanya\source\repos\UsersAPI\Entity\obj\Debug\netcoreapp2.2\Entity.AssemblyInfoInputs.cache
+C:\Users\chaitanya\source\repos\UsersAPI\Entity\obj\Debug\netcoreapp2.2\Entity.AssemblyInfo.cs
+C:\Users\chaitanya\source\repos\UsersAPI\Entity\obj\Debug\netcoreapp2.2\Entity.dll
+C:\Users\chaitanya\source\repos\UsersAPI\Entity\obj\Debug\netcoreapp2.2\Entity.pdb

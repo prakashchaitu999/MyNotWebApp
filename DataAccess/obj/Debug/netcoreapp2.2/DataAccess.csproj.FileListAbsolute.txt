@@ -1,0 +1,14 @@
+C:\Users\chaitanya\source\repos\UsersAPI\DataAccess\bin\Debug\netcoreapp2.2\DataAccess.deps.json
+C:\Users\chaitanya\source\repos\UsersAPI\DataAccess\bin\Debug\netcoreapp2.2\DataAccess.dll
+C:\Users\chaitanya\source\repos\UsersAPI\DataAccess\obj\Debug\netcoreapp2.2\DataAccess.csprojAssemblyReference.cache
+C:\Users\chaitanya\source\repos\UsersAPI\DataAccess\obj\Debug\netcoreapp2.2\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\chaitanya\source\repos\UsersAPI\DataAccess\obj\Debug\netcoreapp2.2\DataAccess.AssemblyInfoInputs.cache
+C:\Users\chaitanya\source\repos\UsersAPI\DataAccess\obj\Debug\netcoreapp2.2\DataAccess.AssemblyInfo.cs
+C:\Users\chaitanya\source\repos\UsersAPI\DataAccess\bin\Debug\netcoreapp2.2\Entity.dll
+C:\Users\chaitanya\source\repos\UsersAPI\DataAccess\bin\Debug\netcoreapp2.2\Entity.pdb
+C:\Users\chaitanya\source\repos\UsersAPI\DataAccess\obj\Debug\netcoreapp2.2\DataAccess.csproj.CopyComplete
+C:\Users\chaitanya\source\repos\UsersAPI\DataAccess\obj\Debug\netcoreapp2.2\DataAccess.dll
+C:\Users\chaitanya\source\repos\UsersAPI\DataAccess\obj\Debug\netcoreapp2.2\DataAccess.pdb
+C:\Users\chaitanya\source\repos\UsersAPI\DataAccess\bin\Debug\netcoreapp2.2\DataAccess.runtimeconfig.json
+C:\Users\chaitanya\source\repos\UsersAPI\DataAccess\bin\Debug\netcoreapp2.2\DataAccess.runtimeconfig.dev.json
+C:\Users\chaitanya\source\repos\UsersAPI\DataAccess\bin\Debug\netcoreapp2.2\DataAccess.pdb
